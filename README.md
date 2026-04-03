@@ -239,14 +239,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Expand with time series analysis
 - [ ] Include MLOps best practices
 
-## 👨‍🎓 Instructor
-
-**Soham Misra** - Full-Stack Developer & AI/ML Specialist
-
----
-
-### Last Updated: 2026-04-03
-
 ## ⭐ Acknowledgments
 
 - The open-source ML community
